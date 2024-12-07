@@ -5,7 +5,7 @@ body {
 
 .footer .icon-link {
     font-size: 25px;
-    color: #000;
+    color: #00C000;
 }
 
 .link-block a {
@@ -71,7 +71,7 @@ body {
 }
 
 .publication-authors a {
-   color: hsl(204, 86%, 53%) !important;
+   color: #00C000;
 }
 
 .publication-authors a:hover {
